@@ -1,0 +1,14 @@
+.message {
+    font-size: 1.2em;
+    margin-top: 8px;
+}
+.valid {
+    color: green;
+}
+.invalid {
+    color: red;
+}
+
+body {
+    background-color: lightblue;
+}
